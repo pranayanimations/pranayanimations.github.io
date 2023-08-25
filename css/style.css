@@ -282,7 +282,7 @@ body {
 	font-family: 'Open Sans', Arial, Helvetica, sans-serif; 
 	font-weight: normal;
 	color: #7e8082;
-	background-color: #fff;
+	background-color: #000;
 	-webkit-font-smoothing: antialiased !important;
 	-webkit-text-size-adjust: 100% !important;
 }
@@ -2158,7 +2158,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   will-change: background-position;
   margin: 0;
   padding: 0;
-  background: #2c2c2c url(../images/work-proc-bg.jpg) fixed;
+  background: #2c2c2c url(../images/myimages/BG1.png) fixed;
   color:#f1f1f1;
 }
 .work-proc-1-bg h3, .work-proc-1-bg .icon  {
@@ -2257,7 +2257,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   will-change: background-position;
   margin: 0;
   padding: 0;
-  background:#2c2c2c url(../images/work-proc-bg.jpg) fixed;
+  background:#2c2c2c url(../images/myimages/BG2.png) fixed;
 }
 .video-ads-text-cont {
   margin:0 auto;
@@ -5263,7 +5263,7 @@ h6 {
 	border-top: 2px dashed #eee;
 }
 hr {
-	border-top: 1px solid #eee;
+	border-top: 1px solid #000;
 	margin: 22px 0 22px 0;
 }
 hr.gradient {
