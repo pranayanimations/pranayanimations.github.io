@@ -281,7 +281,7 @@ body {
 	line-height: 25px;
 	font-family: 'Open Sans', Arial, Helvetica, sans-serif; 
 	font-weight: normal;
-	color: #7e8082;
+	color: #fff;
 	background-color: #000;
 	-webkit-font-smoothing: antialiased !important;
 	-webkit-text-size-adjust: 100% !important;
@@ -1114,7 +1114,7 @@ support for no js
   background-position: center center;
 }
 .title-fs-45 {
-	color:#4b4e53;
+	color:#fff;
 	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 45px;
 	line-height: 45px;
@@ -1165,7 +1165,7 @@ support for no js
 }
 .fes4-title-cont h3, .title-18 {
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-  color: #4b4e53;
+  color: #fff;
   font-weight: 300;
   font-size: 18px;
   margin: 0;
@@ -1177,7 +1177,7 @@ support for no js
 	font-weight:300;
 	font-size:30px;
 	line-height:36px;
-	color:#4b4e53; 
+	color:#fff; 
   border-left:#4b4e53 2px solid;
 }
 .section-title-2 {
