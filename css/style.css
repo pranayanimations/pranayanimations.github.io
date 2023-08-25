@@ -1982,7 +1982,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   display:block;
   padding-top:40px;
   padding-bottom:37px;
-  background:#eee;
+  background:#101010;
   font-family: 'Lato',Arial,Helvetica,sans-serif;
   font-size:18px;
   line-height:18px;
@@ -2018,7 +2018,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   color:#fff;
 }
 .port-view-more-inv{
-  background:#dedede;
+  background:#101010;
   display:block;
   padding-top:40px;
   padding-bottom:37px;
@@ -2213,7 +2213,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 /* #ABOUT US 2 #NEW
 =====================================================*/
 .about-us-2-cont {
-  background:#f4f4f4;
+  background:#000;
 }
 
 /* #COUNTERS 1 #NEW
@@ -3914,7 +3914,7 @@ header.affix .logo .logo-img {
 .nl-cont {
   padding-top:80px;
   padding-bottom:45px;
-  background:#eee;
+  background:#101010;
 }
 #mc-embedded-subscribe {
   font-family: 'Open Sans',Arial,Helvetica,sans-serif;
@@ -10278,9 +10278,9 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
   position:fixed !important;
 }
 #nav-stick2.has-bg.white .header-wrapper{
-  background: #fff;
+  background: rgba(0,0,0, .0);
   -webkit-box-shadow: 0 1px 15px rgba(0,0,0, .15);
-	box-shadow: 0 1px 15px rgba(0,0,0, .15);
+	box-shadow: 0 1px 15px rgba(0,0,0, .0);
 }
 #nav-stick2.has-bg.black .header-wrapper{
   background: #303236;
