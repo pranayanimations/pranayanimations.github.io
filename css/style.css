@@ -1386,10 +1386,10 @@ support for no js
   background-position: center center;  
 }
 .white-bg{
-	background-color:#fff;
+	background-color:#000;
 }
 .grey-light-bg{
-	background-color:#eee;
+	background-color:#000;
 }
 .grey-dark-bg, .header.no-transparent .header-wrapper.grey-dark-bg{
 	background-color:#303236;
@@ -1697,7 +1697,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 	display: inline-block;
 	margin: 0 21px;
   margin-bottom:5px;
-	color: #999;
+	color: #333;
 	text-decoration: none;
   border-bottom: 1px solid transparent;
 	
@@ -1713,7 +1713,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 	text-decoration: none;
 }
 .port-filter a.active{
-	color: #101010;
+	color: #fff;
   border-color:#101010;
 	cursor: default;
 }
@@ -3723,7 +3723,7 @@ background:none;
 	z-index:29;
 }
 .header.no-transparent .header-wrapper{
-  background:#fff;
+  background:#000;
 }
 .border-b{
   border-bottom: 1px solid #eee;
@@ -5132,7 +5132,7 @@ h1, h2, h3{
 	margin: 0;
 }
 h1, h2, h3, h4, h5, h6 {
-	color: #4b4e53;
+	color: #fff;
 	margin: 0;
 }
 h1 {
