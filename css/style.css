@@ -2090,7 +2090,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 =====================================================*/
 .quote p{
   margin-bottom:24px;
-  color:#4b4e53;
+  color:#fff;
   font-family: 'Lato',Arial,Helvetica,sans-serif;
   font-size:21px;
   line-height:32px;
@@ -2161,7 +2161,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   will-change: background-position;
   margin: 0;
   padding: 0;
-  background: #2c2c2c url(../images/myimages/BG1.png) fixed;
+  background: #2c2c2c url(../images/myimages/BG2.png) fixed;
   color:#f1f1f1;
 }
 .work-proc-1-bg h3, .work-proc-1-bg .icon  {
@@ -2260,7 +2260,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   will-change: background-position;
   margin: 0;
   padding: 0;
-  background:#2c2c2c url(../images/myimages/BG2.png) fixed;
+  background:#2c2c2c url(../images/myimages/BG1.png) fixed;
 }
 .video-ads-text-cont {
   margin:0 auto;
