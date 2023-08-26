@@ -1124,7 +1124,7 @@ support for no js
 	font-weight: 300;
 }
 .fes3-img {
-  background: url(../images/myimages/Race.jpeg) 50% 50% no-repeat;
+  background: url(../images/myimages/TheSpeed.jpeg) 50% 50% no-repeat;
   background-size: cover;
   
   width: 100%;
@@ -4737,7 +4737,7 @@ blockquote.custom-blockquote:before {
 .work-navigation{
   padding:18px 0;
 	width: 100%;
-	background: #fff;	
+	background: #000;	
 	font-size: 12px;
 	text-transform: uppercase;
 	letter-spacing: 2px;	
