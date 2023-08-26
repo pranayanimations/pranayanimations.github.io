@@ -1700,7 +1700,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 	display: inline-block;
 	margin: 0 21px;
   margin-bottom:5px;
-	color: #333;
+	color: #7e8082;
 	text-decoration: none;
   border-bottom: 1px solid transparent;
 	
@@ -1717,11 +1717,11 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .port-filter a.active{
 	color: #fff;
-  border-color:#101010;
+  border-color:#fff;
 	cursor: default;
 }
 .port-filter a.active:hover{
-	color: #101010;
+	color: #fff;
 }
  
 /******************************************************************************/ 
@@ -2836,7 +2836,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   color:#7e8082;
 }
 .breadcrumbs a:hover, .bread-current{
-  color:#101010;
+  color:#fff;
 }
 .grey-dark-bg .page-title, .grey-dark-bg .page-title-big{
   color:#fff;
