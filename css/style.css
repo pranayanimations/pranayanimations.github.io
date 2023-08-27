@@ -1024,7 +1024,9 @@ support for no js
 		max-width: 100%;
 		height: auto;
 	}	
-
+	iframe {
+		height: 100%;
+	}
 /*	#HEADER
 =====================================================*/
 .logo-row {
@@ -1033,7 +1035,7 @@ support for no js
 	z-index:1;
 }
 .header-transporent-bg-black{
-  background:#303236;
+  background:#rgba(0,0,0,.0);
 }
 
 /* #FEATURES 1 #NEW
@@ -3747,7 +3749,7 @@ background:none;
 	box-shadow: 0 1px 15px rgba(0,0,0, .15);
 }
 .affix.black-header .header-wrapper {
-	background: #303236;
+	background: rgba(0,0,0,.0);
 }
 #nav-below.header {
 	position:relative;
