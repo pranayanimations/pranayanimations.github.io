@@ -1,9 +1,6 @@
 /*------------------------------------------------------------------
-Project:    Haswell
-Version:    2.5
-Last change:    07.11.2020
-Author: Abcgomel
-Site: https://themeforest.net/user/abcgomel/portfolio
+Project:    Animations
+Author: Pranay Panchal
 -------------------------------------------------------------------*/
 
 /*    GLOBAL STYLES
@@ -4361,7 +4358,7 @@ blockquote.custom-blockquote:before {
 @media only screen and (max-width : 1024px) {
   .coming-soon-main-text-container h1{
     font-weight: 600;
-    font-size:40px;
+    font-size:30px;
     line-height:45px;
     margin-top:0;
   }
@@ -10288,7 +10285,7 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 	box-shadow: 0 1px 15px rgba(0,0,0, .0);
 }
 #nav-stick2.has-bg.black .header-wrapper{
-  background: #303236;
+  background: rgba(0,0,0,.0);
   -webkit-box-shadow: 0 1px 15px rgba(0,0,0, .15);
 	box-shadow: 0 1px 15px rgba(0,0,0, .15);
 }
