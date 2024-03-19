@@ -7828,7 +7828,7 @@ h2.portfolio-timeline-title {
     width:auto;
   }
 	.logo-2, .header.no-transparent .logo-2 {
-	  padding: 17px 0 17px 13px;
+	  padding: 0px 0 17px 13px;
 	}
 	.logo-row {
 		width:auto;
@@ -7957,7 +7957,7 @@ h2.portfolio-timeline-title {
 	/***** #INDENT MAIN CONTAINER	*****/	
   .header {
     position: relative;  
-    margin-bottom:-76px; 
+    margin-bottom:-97px; 
     width: auto;
     height:auto;
   }
